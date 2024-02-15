@@ -1,5 +1,4 @@
 # Data-structures
-Fundamentals of files andsecondarystorage. Organizing files. Indexingandmaintenanceofindexed files. Co-sequentialprocessingandexternalsorting. B-Treesand its variations. Data structures for graphsrepresentation. Classic algorithmsongraphsandapplications
-
+Fundamentals of files and secondary storage. File organization. Fields and records of fixed and variable size. File indexing. Data structures and algorithms for primary, secondary, and multi-key indexing. Maintenance of dynamic indexed files. Sequential processing. Sorting of large files. B-trees and their variations. Fundamental concepts and computational applications of graphs. Data structures for graph representation: edge list, adjacency list, and adjacency matrix. Graph traversal and applications: breadth-first and depth-first search. Classical algorithms on graphs and applications, such as shortest paths, minimum spanning trees, and topological sorting.
 Explanatory videos of the projects.
 https://www.canva.com/design/DAF83gB7_m4/h3jN-GFNxGtN3yCDDb4aag/edit?utm_content=DAF83gB7_m4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
